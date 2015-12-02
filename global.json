@@ -1,0 +1,8 @@
+{
+  "projects": [ "Application", "Domain", "Presentation", "Infra/Data", "Services" ],
+  "sdk": {
+    "version": "1.0.0-rc1-final",
+    "runtime": "coreclr",
+    "architecture": "x86"
+  }
+}
